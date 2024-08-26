@@ -5,7 +5,7 @@ Online payment is the most popular transaction method in the world today. Howeve
 
 ## Dataset link
 
-[text](https://data.world/majpain/online-fraud-detection-with-previous-online-transactionscsv)
+Dataset[link](https://data.world/majpain/online-fraud-detection-with-previous-online-transactionscsv)
 
 The dataset consists of 10 variables:
 * step: represents a unit of time where 1 step equals 1 hour
